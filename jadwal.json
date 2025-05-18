@@ -1,13 +1,13 @@
 [
   {
     "nama": "Lutung",
-    "nomor": "+62895328255992",
+    "nomor_env": "NOMOR_LUTUNG",
     "mulai": "08:00",
     "selesai": "16:00"
   },
   {
     "nama": "Budi",
-    "nomor": "+6281802711866",
+    "nomor_env": "NOMOR_BUDI",
     "mulai": "16:00",
     "selesai": "00:00"
   }
